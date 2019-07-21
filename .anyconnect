@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnyConnectPreferences>
+<DefaultUser>mnedelcu</DefaultUser>
+<DefaultSecondUser></DefaultSecondUser>
+<ClientCertificateThumbprint>1FC13214629A80FDF909E09C0D12C6EE486C621B</ClientCertificateThumbprint>
+<ServerCertificateThumbprint></ServerCertificateThumbprint>
+<DefaultHostName>vpn-us-west.conversantmedia.com</DefaultHostName>
+<DefaultHostAddress></DefaultHostAddress>
+<DefaultGroup>VPN-US-WEST.CONVERSANTMEDIA.COM</DefaultGroup>
+<ProxyHost></ProxyHost>
+<ProxyPort></ProxyPort>
+<SDITokenType>none</SDITokenType>
+<ControllablePreferences>
+<AutoReconnect>true
+<AutoReconnectBehavior>ReconnectAfterResume</AutoReconnectBehavior></AutoReconnect></ControllablePreferences>
+</AnyConnectPreferences>
